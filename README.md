@@ -1,4 +1,4 @@
-# Hi, I'm João Francisco 👋 
+# Hi, I'm João Francisco 
 
 **Co-Founder & CTO at Moonrad** | **Web3 Builder** | **Senior Full-stack Engineer**
 
