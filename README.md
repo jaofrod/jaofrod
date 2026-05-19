@@ -16,7 +16,7 @@ An open-source automation engine built for the Base ecosystem to explore determi
     *   **Engine:** Deterministic strategy execution with paper trading simulation.
 
 ### [Voidnaut (Moonrad)](https://github.com/jaofrod/voidnaut-core-architecture)
-A R&D platform focused on on-chain data pipelines, **Flashblocks monitoring**, and real-time blockchain streaming.
+A platform focused on on-chain data pipelines, **Flashblocks monitoring**, and real-time blockchain streaming.
 
 *   **Features:**
     *   **API-First Surface:** Designed for clean data presentation and developer integration.
