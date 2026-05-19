@@ -36,7 +36,7 @@ A production SaaS platform for tabletop RPG campaign management, used as a labor
 
 *   **Frontend:** React, Next.js, TypeScript, TailwindCSS, Client-side State Management & Performance.
 *   **Backend & Infra:** Node.js, NestJS, Microservices, REST/GraphQL, PostgreSQL, Redis, Docker.
-*   **Cloud & Web3:** Google Cloud Platform (GCP), RPC node integration, on-chain data indexing.
+*   **Cloud & Web3:** Google Cloud Platform (GCP), RPC node integration, ether.js.
 *   **Workflow:** Terminal-centric environment using **Neovim, Lua, and Tmux**.
 
 ---
