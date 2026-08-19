@@ -1,6 +1,6 @@
 # Hi, I'm João Francisco
 
-### Senior Full-Stack Engineer · Real-time & API-first product engineering
+### Full-Stack Developer & Builder · Real-time & API-first product engineering
 
 I build reactive UIs, robust TypeScript backends, and real-time data pipelines.
 owning products from architecture to delivery, usually in small autonomous teams.
