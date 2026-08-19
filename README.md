@@ -1,19 +1,19 @@
-# Hi, I'm João Francisco 👋
+# Hi, I'm João Francisco
 
 ### Senior Full-Stack Engineer · Real-time & API-first product engineering
 
-I build reactive UIs, robust TypeScript backends, and real-time data pipelines —
+I build reactive UIs, robust TypeScript backends, and real-time data pipelines.
 owning products from architecture to delivery, usually in small autonomous teams.
 My recent work lives where high-concurrency backends meet polished frontends,
 currently on the Base network ecosystem.
 
-- 🧩 **Full-stack, one language:** React / Next.js on the front, Node.js / NestJS on the back, TypeScript strict end to end.
-- ⚡ **Real-time by default:** WebSockets & SSE, optimistic updates, shared-state conflict resolution.
-- 🏗️ **Idea to production:** scalable frontend architecture, API design, queues, CI/CD, and deploy.
+- **Full-stack, one language:** React / Next.js on the front, Node.js / NestJS on the back, TypeScript strict end to end.
+- **Real-time by default:** WebSockets & SSE, optimistic updates, shared-state conflict resolution.
+- **Idea to production:** scalable frontend architecture, API design, queues, CI/CD, and deploy.
 
 ---
 
-## 🚀 Selected Projects
+## Some of my personal projects
 
 ### [Códice](https://codice.app/) — production SaaS, solo-built
 Real-time campaign management for tabletop RPGs, used as a lab for high-concurrency client state.
