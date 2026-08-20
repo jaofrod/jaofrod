@@ -4,12 +4,11 @@
 
 I build reactive UIs, robust TypeScript backends, and real-time data pipelines.
 owning products from architecture to delivery, usually in small autonomous teams.
-My recent work lives where high-concurrency backends meet polished frontends,
-currently on the Base network ecosystem.
 
-- **Full-stack, one language:** React / Next.js on the front, Node.js / NestJS on the back, TypeScript strict end to end.
-- **Real-time by default:** WebSockets & SSE, optimistic updates, shared-state conflict resolution.
-- **Idea to production:** scalable frontend architecture, API design, queues, CI/CD, and deploy.
+- React / Next.js on the front, Node.js / NestJS on the back, TypeScript, Python.
+- WebSockets & SSE, optimistic updates, shared-state conflict resolution.
+- scalable frontend architecture, API design, queues, CI/CD, and deploy.
+- AI pipelines and agents.
 
 ---
 
@@ -38,7 +37,7 @@ An automation & R&D engine for the Base ecosystem.
 ## 🛠️ Stack
 
 **Frontend:** React · Next.js · TypeScript · TailwindCSS · component architecture · state management · web performance
-**Backend:** Node.js · NestJS · Express · REST / GraphQL · microservices · WebSockets / SSE · BullMQ
+**Backend:** Node.js · NestJS · Python · Express · REST / GraphQL · microservices · WebSockets / SSE · BullMQ
 **Data:** PostgreSQL · Redis · Prisma
 **Cloud & DevOps:** GCP (Cloud Run, Pub/Sub, Cloud Tasks) · Docker · CI/CD · event-driven architecture
 **Web3:** Base · ethers.js · RPC integration · on-chain indexing
