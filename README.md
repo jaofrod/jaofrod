@@ -1,49 +1,55 @@
-# Hi, I'm João Francisco
+# João Francisco Rodrigues
 
-### Full-Stack Developer & Builder · Real-time & API-first product engineering
+**Fullstack Engineer** | TypeScript · Node.js · React/Next.js · AI Systems · LLM Workflows
 
-I build reactive UIs, robust TypeScript backends, and real-time data pipelines.
-owning products from architecture to delivery, usually in small autonomous teams.
-
-- React / Next.js on the front, Node.js / NestJS on the back, TypeScript, Python.
-- WebSockets & SSE, optimistic updates, shared-state conflict resolution.
-- scalable frontend architecture, API design, queues, CI/CD, and deploy.
-- AI pipelines and agents.
+I build products end to end, from problem discovery to production. My focus is real-time, high-concurrency platforms, payment infrastructure and applying AI agents and LLM workflows to the development process itself.
 
 ---
 
-## Some of my personal projects
+## What I do
 
-### [Códice](https://codice.app/) — production SaaS, solo-built
-Real-time campaign management for tabletop RPGs, used as a lab for high-concurrency client state.
-- Interactive React frontend powered by **WebSockets & SSE**
-- Optimistic updates and conflict resolution over shared, multi-user state
-- Full ownership: API, UI, and the real-time interaction model end to end
+- **Fullstack product engineering** — Node.js/NestJS on the backend, React/Next.js (App Router) on the frontend, PostgreSQL and Prisma for data.
+- **Real-time and high concurrency** — WebSockets/SSE, Redis, BullMQ, multi-tenant architectures serving hundreds of concurrent users.
+- **Payments and integrations** — Stripe and PIX flows, webhooks, and reconciliation with idempotent processing.
+- **AI systems and tooling** — LLM-driven agents and dev tooling (Spec Driven Development).
+  
+## Currently
 
-### [Voidnaut](https://github.com/jaofrod/voidnaut-core-architecture) — Moonrad
-B2B, API-first on-chain risk intelligence for Base: contract analysis, real-time alerts, webhook delivery.
-- Dual pipeline: Flashblocks pre-confirmation streaming + deterministic async analysis
-- Node.js / TypeScript services on GCP (Cloud Run, Pub/Sub, Cloud Tasks), PostgreSQL, R2
-- *Core detection is private; architectural boundaries are documented in the repo.*
+- Fullstack Developer at **Chill Pass+**, working on a food & beverage marketplace admin cockpit and an AI agent harness in Python.
+- Founder and engineer of **Códice**, a SaaS for tabletop RPG campaigns taken solo from zero to production.
+- Co-Founder & CTO of **Moonrad Co** (paused), a DeFi infrastructure startup on the Base network.
 
-### [BaseRoute](https://github.com/jaofrod/baseroute) — open source
-An automation & R&D engine for the Base ecosystem.
-- Live on-chain ingestion (Aave V3, Compound III)
-- Deterministic strategy execution with paper-trading simulation
-- Local dashboard for real-time runtime visibility
+**Currently learning:** Solidity and on-chain / EVM development.
 
----
+## Tech stack
 
-## 🛠️ Stack
+**Languages**
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 
-**Frontend:** React · Next.js · TypeScript · TailwindCSS · component architecture · state management · web performance
-**Backend:** Node.js · NestJS · Python · Express · REST / GraphQL · microservices · WebSockets / SSE · BullMQ
-**Data:** PostgreSQL · Redis · Prisma
-**Cloud & DevOps:** GCP (Cloud Run, Pub/Sub, Cloud Tasks) · Docker · CI/CD · event-driven architecture
-**Web3:** Base · ethers.js · RPC integration · on-chain indexing
+**Backend**
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
+![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=flat&logo=nestjs&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat&logo=redis&logoColor=white)
+![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=flat&logo=prisma&logoColor=white)
 
----
+**Frontend**
+![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white)
+![React Native](https://img.shields.io/badge/React_Native-61DAFB?style=flat&logo=react&logoColor=black)
 
-## 📬 Connect
-- **LinkedIn:** [/in/joaofrod](https://www.linkedin.com/in/joaofrod/)
-- **Email:** [contact@jf-lab.dev](mailto:contact@jf-lab.dev)
+**Infrastructure & AI**
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![GCP](https://img.shields.io/badge/Google_Cloud-4285F4?style=flat&logo=googlecloud&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=flat&logo=supabase&logoColor=white)
+
+## GitHub stats
+
+![João's GitHub stats](https://github-readme-stats.vercel.app/api?username=jaofrod&show_icons=true&hide_border=true)
+
+## Contact
+
+- LinkedIn: [linkedin.com/in/joaofrod](https://linkedin.com/in/joaofrod)
+- Email: joaofrod@proton.me
