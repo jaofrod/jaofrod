@@ -8,7 +8,7 @@ I build products end to end, from problem discovery to production. My focus is r
 
 ## What I do
 
-- **Fullstack product engineering** | Node.js/NestJS on the backend, React/Next.js (App Router) on the frontend, PostgreSQL and Prisma for data.
+- **Fullstack product engineering** | Node.js/NestJS or Python/FastAPI on the backend, React/Next.js (App Router) on the frontend, PostgreSQL and Prisma for data.
 - **Real-time and high concurrency** | WebSockets/SSE, Redis, BullMQ, multi-tenant architectures serving hundreds of concurrent users.
 - **Payments and integrations** | Stripe and PIX flows, webhooks, and reconciliation with idempotent processing.
 - **AI systems and tooling** | LLM-driven agents and dev tooling (Spec Driven Development).
