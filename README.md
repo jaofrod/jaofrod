@@ -1,6 +1,6 @@
 # João Francisco Rodrigues
 
-**Fullstack Engineer** | TypeScript · Node.js · React/Next.js · AI Systems · LLM Workflows
+**Fullstack Engineer** | TypeScript · Node.js · Python · React/Next.js · AI Systems · LLM Workflows
 
 I build products end to end, from problem discovery to production. My focus is real-time, high-concurrency platforms, payment infrastructure, and applying AI agents and LLM workflows to the development process itself.
 
